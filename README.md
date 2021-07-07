@@ -1,4 +1,4 @@
-# SAPDocker
+# SAPDocker (I use the Trial Version)
 
 SAP LOGIN
 
